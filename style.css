@@ -6,6 +6,12 @@ font size: 3em;
 
 body {
 font-family: arial;
+  background: url('https://source.unsplash.com/random');
+}
+
+img {
+background: url('https://source.unsplash.com/random');
+  opacity: 0.1;
 }
 
 p.impact {
@@ -33,3 +39,5 @@ ul {
   padding: 0;
   text-decoration: none;
 }
+
+
