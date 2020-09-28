@@ -16,6 +16,19 @@ p.impact {
   font-family: Impact, Charcoal, sans-serif;
 }
 
+/* This is starting to look like a 90s styled website */
+/* I love retro */
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
