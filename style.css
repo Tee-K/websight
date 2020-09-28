@@ -1,0 +1,17 @@
+/* This should be where all the changes will take place on my main html file. */
+
+h1 {
+font size: 3em;
+}
+
+body {
+font-family: arial;
+}
+
+a {
+text-decoration: none;
+}
+
+p.impact {
+  font-family: Impact, Charcoal, sans-serif;
+}
