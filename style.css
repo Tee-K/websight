@@ -30,6 +30,7 @@ li a {
   display: block;
   padding: 8px;
   background-color: #dddddd;
+  text-decoration: none;
 }
 
 /* Johnny, riddle me this, why doesn't the text-decoration modifier work on the main page?
@@ -38,7 +39,6 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  text-decoration: none;
 }
 
 
