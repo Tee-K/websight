@@ -1,18 +1,31 @@
 /* This should be where all the changes will take place on my main html file. */
 
+html {
+  background-color: #ddd;
+  
 h1 {
 font size: 3em;
 }
 
-/* Where should the bg img be? */
 body {
 font-family: arial;
-  background: url('https://source.unsplash.com/random');
+background: linen;
 }
+
+.top_img {
+  margin: auto;
+  margin-top: 30px;
+  width: 400px;
+}
+
+  /* Where should the bg img be? Here is okay. */
 
 img {
 background: url('https://source.unsplash.com/random');
-  opacity: 0.1;
+  width: 320px;
+  height: 320px;
+  padding: 10px;
+  border: 5px solid darkgray;
 }
 
 p.impact {
